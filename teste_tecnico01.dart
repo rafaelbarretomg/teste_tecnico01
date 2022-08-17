@@ -1,7 +1,7 @@
 //Programa principal
 void main() {
-  //altere apenas o número dentro dos parenteses.
-  print(somador(20));
+  //altere apenas o número dentro dos parenteses na frente do somador().
+  print('A soma dos numeros divisiveis por 3 e 5 é = ${somador(20)}');
 }
 
 //Função que soma todos os números divisiveis por 3 e por 5,
