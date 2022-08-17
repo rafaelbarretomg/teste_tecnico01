@@ -1,5 +1,5 @@
 # teste_tecnico01
- Repositorio publico com o teste tecnio 01
+ Repositorio publico com o teste tecnico 01 da Escribo
 
 Programa com uma funçao que soma todos os numeros menores que o indicado e que sao divisiveis por 3 e por 5.
 
