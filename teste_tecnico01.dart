@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 //Programa principal
 void main() {
   //altere apenas o número dentro dos parenteses.
